@@ -29,7 +29,7 @@
 "Super Kings","KKR","KKR",14,"Centurion","May 18, 2009",21
 "Super Kings","Kings XI","Super Kings",24,"Durban","May 20, 2009",20
 "Super Kings","RCB","RCB",14,"Johannesburg","May 23, 2009",21
-"Super Kings","","",31,"Chennai","Mar 14, 2010",20
+"Super Kings","Deccan","Deccan",31,"Chennai","Mar 14, 2010",20
 "KKR","Super Kings","Super Kings",55,"Kolkata","Mar 16, 2010",21
 "Daredevils","Super Kings","Super Kings",14,"Delhi","Mar 19, 2010",20
 "Super Kings","Kings XI","tied",14,"Chennai","Mar 21, 2010",17
@@ -43,22 +43,22 @@
 "Super Kings","KKR","Super Kings",14,"Chennai","Apr 13, 2010",20
 "Super Kings","Daredevils","Daredevils",14,"Chennai","Apr 15, 2010",6
 "Kings XI","Super Kings","Super Kings",14,"Dharamsala","Apr 18, 2010",20
-"Super Kings","","Super Kings",38,"Mumbai","Apr 22, 2010",24
+"Super Kings","Deccan","Super Kings",38,"Mumbai","Apr 22, 2010",24
 "Mum Indians","Super Kings","Super Kings",22,"Mumbai","Apr 25, 2010",20
 "Central D","Super Kings","Super Kings",57,"Durban","Sep 11, 2010",25
 "Super Kings","Wayamba","Super Kings",97,"Centurion","Sep 15, 2010",20
 "Super Kings","Victoria","tied",14,"Port Elizabeth","Sep 18, 2010",21
-"Super Kings","","Super Kings",10,"Port Elizabeth","Sep 22, 2010",16
+"Super Kings","Deccan","Super Kings",10,"Port Elizabeth","Sep 22, 2010",16
 "Super Kings","RCB","Super Kings",52,"Durban","Sep 24, 2010",19
-"","Super Kings","Super Kings",14,"Johannesburg","Sep 26, 2010",20
+"Deccan","Super Kings","Super Kings",14,"Johannesburg","Sep 26, 2010",20
 "Super Kings","KKR","Super Kings",2,"Chennai","Apr 8, 2011",27
 "Kings XI","Super Kings","Kings XI",14,"Mohali","Apr 13, 2011",28
 "Super Kings","RCB","Super Kings",21,"Chennai","Apr 16, 2011",22
 "Kochi","Super Kings","Kochi",14,"Kochi","Apr 18, 2011",20
 "Mum Indians","Super Kings","Mum Indians",8,"Mumbai","Apr 22, 2011",29
-"Super Kings","","Super Kings",25,"Chennai","Apr 25, 2011",18
-"","Super Kings","Super Kings",14,"Mumbai","Apr 27, 2011",20
-"Super Kings","","Super Kings",19,"Chennai","May 1, 2011",20
+"Super Kings","Deccan","Super Kings",25,"Chennai","Apr 25, 2011",18
+"Warriors","Super Kings","Super Kings",14,"Mumbai","Apr 27, 2011",20
+"Super Kings","Deccan","Super Kings",19,"Chennai","May 1, 2011",20
 "Super Kings","Royals","Super Kings",14,"Chennai","May 4, 2011",14
 "KKR","Super Kings","KKR",10,"Kolkata","May 7, 2011",20
 "Royals","Super Kings","Super Kings",63,"Jaipur","May 9, 2011",18
@@ -72,16 +72,16 @@
 "Super Kings","Trinidad & T","Trinidad & T",12,"Chennai","Oct 2, 2011",20
 "Super Kings","NSW","NSW",46,"Chennai","Oct 4, 2011",21
 "Super Kings","Mum Indians","Mum Indians",14,"Chennai","Apr 4, 2012",20
-"","Super Kings","Super Kings",74,"Visakhapatnam","Apr 7, 2012",20
+"Tuskers","Super Kings","Super Kings",74,"Visakhapatnam","Apr 7, 2012",20
 "Daredevils","Super Kings","Daredevils",14,"Delhi","Apr 10, 2012",18
 "Super Kings","RCB","Super Kings",14,"Chennai","Apr 12, 2012",17
-"","Super Kings","",14,"Pune","Apr 14, 2012",19
-"Super Kings","","Super Kings",13,"Chennai","Apr 19, 2012",20
+"Warriors","Super Kings","Warriors",14,"Pune","Apr 14, 2012",19
+"Super Kings","Deccan","Super Kings",13,"Chennai","Apr 19, 2012",20
 "Super Kings","Royals","Super Kings",14,"Chennai","Apr 21, 2012",17
 "RCB","Super Kings","no result",14,"Bengaluru","Apr 25, 2012",21
 "Super Kings","Kings XI","Kings XI",7,"Chennai","Apr 28, 2012",14
 "Super Kings","KKR","KKR",14,"Chennai","Apr 30, 2012",20
-"Super Kings","","Super Kings",10,"Chennai","May 4, 2012",16
+"Super Kings","Tuskers","Super Kings",10,"Chennai","May 4, 2012",16
 "Mum Indians","Super Kings","Mum Indians",14,"Mumbai","May 6, 2012",20
 "Royals","Super Kings","Super Kings",14,"Jaipur","May 10, 2012",21
 "Super Kings","Daredevils","Super Kings",14,"Chennai","May 12, 2012",20
@@ -91,19 +91,19 @@
 "Super Kings","Daredevils","Super Kings",86,"Chennai","May 25, 2012",20
 "Super Kings","KKR","KKR",14,"Chennai","May 27, 2012",21
 "Super Kings","Sixers","Sixers",14,"Johannesburg","Oct 14, 2012",21
-"Super Kings","","",14,"Cape Town","Oct 16, 2012",20
+"Super Kings","Lions","Lions",14,"Cape Town","Oct 16, 2012",20
 "Super Kings","Mum Indians","Super Kings",6,"Johannesburg","Oct 20, 2012",21
 "Super Kings","Yorkshire","Super Kings",14,"Durban","Oct 22, 2012",47
 "Super Kings","Mum Indians","Mum Indians",9,"Chennai","Apr 6, 2013",15
 "Kings XI","Super Kings","Super Kings",14,"Mohali","Apr 10, 2013",20
 "Super Kings","RCB","Super Kings",14,"Chennai","Apr 13, 2013",21
-"Super Kings","","",24,"Chennai","Apr 15, 2013",20
+"Super Kings","Warriors","Warriors",24,"Chennai","Apr 15, 2013",20
 "Daredevils","Super Kings","Super Kings",86,"Delhi","Apr 18, 2013",20
 "KKR","Super Kings","Super Kings",14,"Kolkata","Apr 20, 2013",21
 "Super Kings","Royals","Super Kings",14,"Chennai","Apr 22, 2013",20
 "Super Kings","Sunrisers","Super Kings",14,"Chennai","Apr 25, 2013",21
 "Super Kings","KKR","Super Kings",14,"Chennai","Apr 28, 2013",20
-"","Super Kings","Super Kings",37,"Pune","Apr 30, 2013",20
+"Warriors","Super Kings","Super Kings",37,"Pune","Apr 30, 2013",20
 "Super Kings","Kings XI","Super Kings",15,"Chennai","May 2, 2013",14
 "Mum Indians","Super Kings","Mum Indians",60,"Mumbai","May 5, 2013",20
 "Sunrisers","Super Kings","Super Kings",77,"Hyderabad (Deccan)","May 8, 2013",20
@@ -208,4 +208,4 @@
 "KKR","Super Kings","Super Kings",18,"Mumbai","Apr 21, 2021",19
 "Super Kings","RCB","Super Kings",69,"Mumbai","Apr 25, 2021",14
 "Super Kings","Sunrisers","Super Kings",4,"Delhi","Apr 28, 2021",16
-"","Super Kings","Mum Indians",7,"Delhi","May 1, 2021",19
+"Mum Indians","Super Kings","Mum Indians",7,"Delhi","May 1, 2021",19
