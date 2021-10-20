@@ -5,23 +5,23 @@
 "RCB","Super Kings","Super Kings",13,"Bengaluru","Apr 28, 2008",20
 "Super Kings","Daredevils","Daredevils",14,"Chennai","May 2, 2008",21
 "Royals","Super Kings","Royals",14,"Jaipur","May 4, 2008",17
-"Super Kings","","",14,"Chennai","May 6, 2008",28
+"Super Kings","Deccan","Deccan",14,"Chennai","May 6, 2008",28
 "Daredevils","Super Kings","Super Kings",14,"Delhi","May 8, 2008",20
 "Super Kings","Kings XI","Super Kings",18,"Chennai","May 10, 2008",45
 "Mum Indians","Super Kings","Mum Indians",14,"Mumbai","May 14, 2008",20
 "KKR","Super Kings","Super Kings",3,"Kolkata","May 18, 2008",2
 "Super Kings","RCB","RCB",14,"Chennai","May 21, 2008",17
 "Super Kings","Royals","Royals",10,"Chennai","May 24, 2008",20
-"","Super Kings","Super Kings",14,"Hyderabad (Deccan)","May 27, 2008",21
+"Deccan","Super Kings","Super Kings",14,"Hyderabad (Deccan)","May 27, 2008",21
 "Super Kings","Kings XI","Super Kings",14,"Mumbai","May 31, 2008",4
 "Super Kings","Royals","Royals",14,"Mumbai","Jun 1, 2008",17
 "Super Kings","Mum Indians","Mum Indians",19,"Cape Town","Apr 18, 2009",5
 "RCB","Super Kings","Super Kings",92,"Port Elizabeth","Apr 20, 2009",21
 "Super Kings","Daredevils","Daredevils",9,"Durban","Apr 23, 2009",9
-"Super Kings","","",6,"Durban","Apr 27, 2009",24
+"Super Kings","Deccan","Deccan",6,"Durban","Apr 27, 2009",24
 "Super Kings","Royals","Super Kings",38,"Centurion","Apr 30, 2009",5
 "Super Kings","Daredevils","Super Kings",18,"Johannesburg","May 2, 2009",17
-"Super Kings","","Super Kings",78,"East London","May 4, 2009",5
+"Super Kings","Deccan","Super Kings",78,"East London","May 4, 2009",5
 "Super Kings","Kings XI","Super Kings",12,"Centurion","May 7, 2009",14
 "Super Kings","Royals","Super Kings",14,"Kimberley","May 9, 2009",4
 "RCB","Super Kings","RCB",14,"Durban","May 14, 2009",20
@@ -39,7 +39,7 @@
 "Super Kings","RCB","Super Kings",14,"Chennai","Mar 31, 2010",17
 "Super Kings","Royals","Super Kings",23,"Chennai","Apr 3, 2010",15
 "Super Kings","Mum Indians","Super Kings",24,"Chennai","Apr 6, 2010",14
-"","Super Kings","",14,"Nagpur","Apr 10, 2010",6
+"Deccan","Super Kings","Deccan",14,"Nagpur","Apr 10, 2010",6
 "Super Kings","KKR","Super Kings",14,"Chennai","Apr 13, 2010",20
 "Super Kings","Daredevils","Daredevils",14,"Chennai","Apr 15, 2010",6
 "Kings XI","Super Kings","Super Kings",14,"Dharamsala","Apr 18, 2010",20
